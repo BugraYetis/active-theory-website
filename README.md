@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Active Theory
+# 🌐 Active Theory
 
 **İnteraktif Deneyim · Dijital Deneyim Ajansı**
 
